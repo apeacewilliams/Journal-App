@@ -1,6 +1,9 @@
 * {
   box-sizing: border-box;
 }
+body {
+  background-color: #d4a373;
+}
 
 .App {
   text-align: center;
